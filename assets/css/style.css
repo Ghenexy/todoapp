@@ -1,0 +1,26 @@
+body{
+    background: url(/assets/img/house.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: auto;
+    
+}
+
+.navbar{
+    background: transparent !important;
+    position: sticky;
+    z-index: 100;
+   
+    
+} 
+
+.card{
+    background: lightblue;
+    color: white;
+}
+
+.card ul a{
+    float: right;
+    margin: 0 .3rem;
+} 
+
